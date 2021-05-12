@@ -10,7 +10,7 @@
     "@types/lodash": "^4.14.104",
     "@types/react": "^16.0.40",
     "@types/lodash-decorators": "^4.0.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "lodash-decorators": "^4.5.0"
   },
   "devDependencies": {
