@@ -8,7 +8,7 @@
     "lerna": "^2.9.0"
   },
   "scripts": {
-    "build": "lerna run build",
+    "build": "echo 1 && lerna run build",
     "lint": "lerna run lint",
     "test": "lerna run test"
   }
