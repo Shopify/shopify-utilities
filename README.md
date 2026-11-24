@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived and receives no updates or security fixes.
+
 # shopify-utilities
 
 A set of utilities for JavaScript and TypeScript projects at Shopify.
